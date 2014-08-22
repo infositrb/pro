@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master
+=======
+develop
+
+>>>>>>> develop
